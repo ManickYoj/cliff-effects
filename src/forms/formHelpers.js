@@ -8,7 +8,8 @@ import {
   Divider,
   Form,
   // Input,
-  Checkbox
+  Checkbox,
+  Grid,
   // Money columns
 } from 'semantic-ui-react';
 
